@@ -282,7 +282,7 @@ document.getElementById("search-input").addEventListener("input", function () {
   // Hiển thị notify sau 1 giây khi tải trang
   window.addEventListener('load', () => {
       setTimeout(() => {
-          showNotification("Welcome to HHNamDz Oren Executor Hub! 🚀", "https://share.creavite.co/67c45a5989908441e5523943.gif");
+          showNotification("Welcome to YuongzMin Executor Hub! 🚀", "https://cdn.discordapp.com/attachments/1281022650222772294/1349276146138877962/giphy.gif?ex=67d7c8d5&is=67d67755&hm=48a26ccf3fb73f4db26a3922aacbec46e125617d3d24ee2dae414c5c6bcd1483&");
       }, 1000);
   });
   // Thêm animation khi scroll
